@@ -2,31 +2,29 @@
 
 ## About Me
 
-I’m a detail-oriented Virtual Assistant with an ICT background and practical experience in administrative support, customer communication, digital organization, and website support.
+I’m a detail-oriented Virtual Assistant with an ICT background and practical skills in administrative support, customer communication, digital organization, and website support.
 
-I use tools such as Google Workspace, Microsoft Office, Canva, and other digital productivity tools to help businesses stay organized and manage day-to-day tasks efficiently.
+I help businesses stay organized by managing digital tasks, information, schedules, communications, and day-to-day administrative work efficiently.
 
 ## Services
 
-- Email Management
-- Data Entry
-- Calendar & Scheduling
-- Customer Support
-- File & Document Management
-- Online Research
-- Social Media Support
-- Website & Digital Support
+* 📧 Email Management
+* 📊 Data Entry & Spreadsheet Management
+* 📅 Calendar & Scheduling
+* 📱 Social Media Support
+* 💬 Customer Support
+* 📁 File & Document Management
+* 🔎 Online Research
+* 💻 Website & Digital Support
 
 ## Portfolio Samples
 
-| Project | Skills Demonstrated | Tools |
-|---|---|---|
-| Email Management | Inbox organization, professional communication, follow-ups | Gmail |
-| Customer Tracker | Data entry, sorting, filtering | Google Sheets |
-| File Organization | Folder management, file organization | Google Drive |
-| Calendar Management | Scheduling, reminders, meetings | Google Calendar |
-| Customer Information Form | Data collection and organization | Google Forms |
-| Social Media Support | Content planning and organization | Canva, Google Sheets |
+| Project                                               | Skills Demonstrated                                                      | Tools                |
+| ----------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- |
+| 📧 [Email Management](email-management/)              | Inbox organization, email labels, professional communication, follow-ups | Gmail                |
+| 📅 [Calendar & Scheduling](calendar-scheduling/)      | Scheduling, reminders, appointments, time management                     | Google Calendar      |
+| 📊 [Data Entry & Spreadsheet Management](data-entry/) | Data entry, organization, sorting, filtering, accuracy                   | Excel, Google Sheets |
+| 📱 [Social Media Management](social-media/)           | Content planning, captions, scheduling, audience engagement              | Canva, Google Sheets |
 
 ## Technical Skills
 
@@ -40,8 +38,8 @@ I use tools such as Google Workspace, Microsoft Office, Canva, and other digital
 
 ## Contact
 
-**Email:** lucy.koome12@gmail.com
+**Email:** [lucy.koome12@gmail.com](mailto:lucy.koome12@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/wanjiru-lucy-46068a405
+**LinkedIn:** [linkedin.com/in/wanjiru-lucy-46068a405](https://www.linkedin.com/in/wanjiru-lucy-46068a405)
 
-**GitHub:** https://github.com/wanjiru540
+**GitHub:** [github.com/wanjiru540](https://github.com/wanjiru540)
