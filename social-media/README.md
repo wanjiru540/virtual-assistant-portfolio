@@ -29,3 +29,4 @@ A sample social media management workflow demonstrating how I plan, organize, an
 - Administrative support
 
 > Note: This is a portfolio practice project using fictional information.
+> ![Social Media Management](social-media.jpg)
