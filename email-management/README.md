@@ -26,3 +26,6 @@ Gmail
 - Administrative support
 
 > Note: This is a portfolio practice project using fictional information.
+> ## 📧 Email Management Sample
+
+![Gmail Inbox Organization](gmail-inbox-organization.png)
