@@ -27,3 +27,4 @@ A sample data-entry and spreadsheet-management workflow demonstrating how I orga
 - Administrative support
 
 > Note: This is a portfolio practice project using fictional information.
+> ![Data Entry & Spreadsheet Management](data-entry.jpg)
