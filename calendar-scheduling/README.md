@@ -26,3 +26,4 @@ Google Calendar
 - Administrative support
 
 > Note: This is a portfolio practice project using fictional information.
+> ![Calendar & Scheduling Management](calendar-scheduling.png)
