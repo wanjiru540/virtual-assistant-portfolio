@@ -27,3 +27,10 @@ This project demonstrates my ability to use HubSpot CRM to organize client infor
 
 ## Project Purpose
 This sample project demonstrates how I can support businesses by keeping client records organized, tracking outstanding tasks, and helping ensure timely follow-ups.
+### CRM & Client Follow-up Management
+Used HubSpot CRM to organize client records, document interactions, track lead status, and schedule follow-up tasks.
+
+**Tools:** HubSpot CRM  
+**Skills:** Contact Management · CRM Data Entry · Task Tracking · Client Follow-ups
+
+[View CRM Project](./crm-client-management/README.md)
