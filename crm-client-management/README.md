@@ -33,4 +33,4 @@ Used HubSpot CRM to organize client records, document interactions, track lead s
 **Tools:** HubSpot CRM  
 **Skills:** Contact Management · CRM Data Entry · Task Tracking · Client Follow-ups
 
-https://github.com/wanjiru540/virtual-assistant-portfolio/edit/main/crm-client-management/README.md
+[View CRM Screenshot](Screenshot%202026-10-19%20171103.png)
