@@ -4,7 +4,15 @@
 
 I’m a detail-oriented Virtual Assistant with an ICT background and practical skills in administrative support, customer communication, digital organization, and website support.
 
-I help businesses stay organized by managing digital tasks, information, schedules, communications, and day-to-day administrative work efficiently.
+I help businesses stay organized by managing digital tasks, information, schedules, communi
+
+https://github.com/user-attachments/assets/624c345e-0e11-47ff-8701-82892b6a254a
+
+
+
+
+
+cations, and day-to-day administrative work efficiently.
 
 ## Services
 
@@ -25,6 +33,10 @@ I help businesses stay organized by managing digital tasks, information, schedul
 | 📅 [Calendar & Scheduling](calendar-scheduling/)      | Scheduling, reminders, appointments, time management                     | Google Calendar      |
 | 📊 [Data Entry & Spreadsheet Management](data-entry/) | Data entry, organization, sorting, filtering, accuracy                   | Excel, Google Sheets |
 | 📱 [Social Media Management](social-media/)           | Content planning, captions, scheduling, audience engagement              | Canva, Google Sheets |
+
+https://github.com/user-attachments/assets/e05e4ef4-b45f-4f6b-9770-229a4822cd8a
+
+
 
 ## Technical Skills
 
