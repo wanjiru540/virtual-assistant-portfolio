@@ -4,15 +4,12 @@
 
 I’m a detail-oriented Virtual Assistant with an ICT background and practical skills in administrative support, customer communication, digital organization, and website support.
 
-I help businesses stay organized by managing digital tasks, information, schedules, communi
+I help businesses stay organized by managing digital tasks, information, schedules, communications, and day-to-day administrative work efficiently.
 
-https://github.com/user-attachments/assets/624c345e-0e11-47ff-8701-82892b6a254a
-
-
-
-
-
-cations, and day-to-day administrative work efficiently.
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/624c345e-0e11-47ff-8701-82892b6a254a" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Services
 
