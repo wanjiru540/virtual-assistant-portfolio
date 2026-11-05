@@ -52,3 +52,16 @@ https://github.com/user-attachments/assets/e05e4ef4-b45f-4f6b-9770-229a4822cd8a
 **LinkedIn:** [linkedin.com/in/wanjiru-lucy-46068a405](https://www.linkedin.com/in/wanjiru-lucy-46068a405)
 
 **GitHub:** [github.com/wanjiru540](https://github.com/wanjiru540)
+
+## Video Demonstrations
+
+### 1. Google Calendar Management
+Demonstration of calendar organization, scheduling, event creation and rescheduling.
+
+[Watch Google Calendar Demo](https://www.loom.com/share/505eeb9057514a81881fa45117ebecb7)
+
+### 2. Google Sheets Data Entry
+Demonstration of spreadsheet data entry and information organization.
+
+[Watch Google Sheets Demo](https://www.loom.com/share/e07c5d71001c4ee39f22df9e08dd4d5b)
+
